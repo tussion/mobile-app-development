@@ -1,4 +1,4 @@
-mobile-app-development
+Mobile App Development
 ======================
 
 Courses:
