@@ -35,3 +35,13 @@ Nokia Developer Programs (on Forum.Nokia) http://www.forum.nokia.com/Developer_P
 Windows Phone AppHub http://create.msdn.com/en-US
 
 BlackBerry Developer Zone http://us.blackberry.com/developers/
+
+Device emulators:
+=================
+
+Android http://developer.android.com/guide/developing/tools/emulator.html
+Opera Mini http://www.opera.com/mobile/demo/
+Apple iPhone (via iOS SDK) http://developer.apple.com/
+Windows Mobile (look for the latest Windows Phone Developer Tools) http://msdn.microsoft.com/en-gb/windowsmobile/bb264327.aspx
+BlackBerry http://www.blackberry.com/developers/downloads/simulators/
+Nokia Mobile Browser http://www.forum.nokia.com/info/sw.nokia.com/id/db2c69a2-4066-46ff-81c4-caac8872a7c5/NMB40_install.zip.html
